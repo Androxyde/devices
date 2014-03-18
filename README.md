@@ -1,0 +1,4 @@
+devices
+=======
+
+Flashtool devices database
