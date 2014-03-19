@@ -1,0 +1,5 @@
+#!SHELLPATH
+
+chmod 755 DEVICEWORKDIR/fixPart
+
+DEVICEWORKDIR/fixPart

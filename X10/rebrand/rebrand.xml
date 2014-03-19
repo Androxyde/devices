@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+	<device name="X10i Generic">
+		<brand name="CUST-AE-GENERIC" value="1238-8010"></brand>
+		<brand name="CUST-AU-GENERIC" value="1234-6150"></brand>
+		<brand name="CUST-BE-GENERIC" value="1238-0870"></brand>
+		<brand name="CUST-CH-GENERIC" value="1237-0688"></brand>
+		<brand name="CUST-DE-GENERIC" value="1235-7836"></brand>
+		<brand name="CUST-GBA-GENERIC" value="1238-3757"></brand>
+		<brand name="CUST-HK-GENERIC" value="1234-6286"></brand>
+		<brand name="CUST-ID-GENERIC" value="1237-0687"></brand>
+		<brand name="CUST-IN-GENERIC" value="1237-0692"></brand>
+		<brand name="CUST-IT-GENERIC" value="1237-0326"></brand>
+		<brand name="CUST-NCB-GENERIC" value="1234-8465"></brand>
+		<brand name="CUST-NL-GENERIC" value="1234-8547"></brand>
+		<brand name="CUST-PH-GENERIC" value="1237-0696"></brand>
+		<brand name="CUST-RU-GENERIC" value="1233-2792"></brand>
+		<brand name="CUST-SG-GENERIC" value="1237-0334"></brand>
+		<brand name="CUST-TH-GENERIC" value="1237-0336"></brand>
+		<brand name="CUST-TW-GENERIC" value="1233-7027"></brand>
+		<brand name="CUST-UK-GENERIC" value="1235-7379"></brand>
+		<brand name="CUST-FR-GENERIC" value="1233-2796"></brand>
+		<brand name="CUST-IBE-GENERIC" value="1238-3760"></brand>
+		<brand name="CUSTOMIZEDARO-ARO-GENERIC" value="1241-1846"></brand>
+		<brand name="CUSTOMIZEDCE1-CE1-GENERIC" value="1237-8344"></brand>
+		<brand name="CUSTOMIZEDCE3-CE3-GENERIC" value="1236-4636"></brand>
+		<brand name="CUSTOMIZEDSA-SA-GENERIC" value="1238-6349"></brand>
+		<brand name="CUSTZA-ZA-GENERIC" value="1238-3758"></brand>
+		<brand name="GLOBAL-GGL-GENERIC" value="1232-9897"></brand>
+		<brand name="UNKOWN-(CUST-MY)" value="1237-0695"></brand>
+	</device>
+	<device name="X10i Branded">
+		<brand name="3-AT-GENERIC" value="1234-4748"></brand>
+		<brand name="3-DK-GENERIC" value="1234-6544"></brand>
+		<brand name="3-HK-GENERIC" value="1234-6546"></brand>
+		<brand name="3-IE-GENERIC" value="1234-4750"></brand>
+		<brand name="3-SE-GENERIC" value="1234-4752"></brand>
+		<brand name="3-UK-GENERIC" value="1232-9592"></brand>
+		<brand name="BOUYG-FR-GENERIC" value="1233-7025"></brand>
+		<brand name="CHT-TW-GENERIC" value="1239-2540"></brand>
+		<brand name="CONN-RO-VFE" value="1234-6156"></brand>
+		<brand name="COSMO-GR-GENERIC" value="1234-7536"></brand>
+		<brand name="CYTA-CY-VFE" value="1234-6146"></brand>
+		<brand name="E+-DE-GENERIC" value="1234-4754"></brand>
+		<brand name="GBUL-BG-GENERIC" value="1236-5705"></brand>
+		<brand name="KPNMOB-NL-GENERIC" value="1234-8550"></brand>
+		<brand name="M1-SG-GENERIC" value="1237-0329"></brand>
+		<brand name="MEDI-MA-GENERIC" value="1238-7218"></brand>
+		<brand name="MENA-AR-MEA-GENERIC" value="1238-3759"></brand>
+		<brand name="MENA-LA-MEL-GENERIC" value="1238-3756"></brand>
+		<brand name="METEOR-IE-GENERIC" value="1234-4756"></brand>
+		<brand name="MKOM-AT-VFE" value="1234-4583"></brand>
+		<brand name="MSTAR-BE-GENERIC" value="1236-0132"></brand>
+		<brand name="MSTAR-ES-GENERIC" value="1234-7515"></brand>
+		<brand name="MTEL-BG-VFE" value="1234-6171"></brand>
+		<brand name="O2-DE-GENERIC" value="1233-2794"></brand>
+		<brand name="O2-IE-GENERIC" value="1234-4760"></brand>
+		<brand name="O2-UK-GENERIC" value="1234-4762"></brand>
+		<brand name="OMUS-PT-GENERIC" value="1234-6159"></brand>
+		<brand name="OPTUS-AU-GENERIC" value="1234-4764"></brand>
+		<brand name="ORA-CARAIB-FR-GENERIC" value="1236-0134"></brand>
+		<brand name="ORA-CH-GENERIC" value="1234-4768"></brand>
+		<brand name="ORA-DO-GENERIC" value="1234-6148"></brand>
+		<brand name="ORA-FR-GENERIC" value="1234-4770"></brand>
+		<brand name="ORA-PL-GENERIC" value="1234-9617"></brand>
+		<brand name="ORA-RO-GENERIC" value="1239-5661"></brand>
+		<brand name="ORA-SK-GENERIC" value="1236-0130"></brand>
+		<brand name="ORA-UK-GENERIC" value="1234-6152"></brand>
+		<brand name="ORANGE-AT-GENERIC" value="1234-4766"></brand>
+		<brand name="PANNON-HU-GENERIC" value="1236-4638"></brand>
+		<brand name="PLAY-PL-GENERIC" value="1236-7213"></brand>
+		<brand name="PLUS-PL-GENERIC" value="1234-7169"></brand>
+		<brand name="PROX-BE-VFE" value="1234-4591"></brand>
+		<brand name="PTC-PL-GENERIC" value="1234-7484"></brand>
+		<brand name="S-TEL-SG-GENERIC" value="1237-0333"></brand>
+		<brand name="SFR-FR-VFE" value="1234-8436"></brand>
+		<brand name="SKTELECOM-KR-GENERIC" value="1236-4494"></brand>
+		<brand name="SMART-PH-GENERIC" value="1239-6522"></brand>
+		<brand name="STAR-SG-GENERIC" value="1237-0330"></brand>
+		<brand name="SUN-CH-GENERIC" value="1233-2786"></brand>
+		<brand name="SWISSC-CH-VFE" value="1233-7029"></brand>
+		<brand name="TDC-DK-GENERIC" value="1234-9751"></brand>
+		<brand name="TELIA-DK-GENERIC" value="1234-9747"></brand>
+		<brand name="TMN-PT-GENERIC" value="1237-0324"></brand>
+		<brand name="TMOB-AT-GENERIC" value="1234-7482"></brand>
+		<brand name="TMOB-CZ-GENERIC" value="1234-7489"></brand>
+		<brand name="TMOB-DE-GENERIC" value="1232-6435"></brand>
+		<brand name="TMOB-HR-GENERIC" value="1234-7486"></brand>
+		<brand name="TMOB-HU-GENERIC" value="1234-7487"></brand>
+		<brand name="TMOB-NL-GENERIC" value="1233-7031"></brand>
+		<brand name="TMOB-SK-GENERIC" value="1236-4639"></brand>
+		<brand name="TMOB-UK-GENERIC" value="1238-8324"></brand>
+		<brand name="TNOR-DK-GENERIC" value="1234-9749"></brand>
+		<brand name="TNOR-NO-GENERIC" value="1234-7530"></brand>
+		<brand name="TNOR-SE-GENERIC" value="1232-9594"></brand>
+		<brand name="TSON-SE-GENERIC" value="1234-9753"></brand>
+		<brand name="VFE-AU-VFE" value="1234-4575"></brand>
+		<brand name="VFE-DE-VFE" value="1234-4587"></brand>
+		<brand name="VFE-DE-VFE" value="1239-2736"></brand>
+		<brand name="VFE-ES-VFE" value="1234-6163"></brand>
+		<brand name="VFE-GR-VFE" value="1234-4581"></brand>
+		<brand name="VFE-HU-VFE" value="1234-6167"></brand>
+		<brand name="VFE-IE-VFE" value="1234-4577"></brand>
+		<brand name="VFE-IT-VFE" value="1240-1465"></brand>
+		<brand name="VFE-NL-VFE" value="1234-4593"></brand>
+		<brand name="VFE-NZ-VFE" value="1234-6142"></brand>
+		<brand name="VFE-PT-VFE" value="1234-4585"></brand>
+		<brand name="VFE-UK-VFE" value="1234-4579"></brand>
+		<brand name="VIP-HR-VFE" value="1234-6169"></brand>
+		<brand name="VODAC-ZA-VFE" value="1234-4589"></brand>
+	</device>
+	<device name="X10a Generic">
+		<brand name="CUST-AR NAM1" value="1237-1014"></brand>
+		<brand name="CUST-BR NAM1" value="1234-4836"></brand>
+		<brand name="CUST-GEL NAM1" value="1234-4820"></brand>
+	</device>
+	<device name="X10a Branded">
+		<brand name="3-AU NAM1" value="1234-4828"></brand>
+		<brand name="CLARO-BR NAM1" value="1233-6927"></brand>
+		<brand name="CLARO-CL NAM1" value="1234-4838"></brand>
+		<brand name="CLARO-GT NAM1" value="1234-4844"></brand>
+		<brand name="COMCEL-CO NAM1" value="1234-4846"></brand>
+		<brand name="MSTAR-AR NAM1" value="1237-0939"></brand>
+		<brand name="MSTAR-CL NAM1" value="1234-8447"></brand>
+		<brand name="MSTAR-GT NAM1" value="1234-4816"></brand>
+		<brand name="MSTAR-PE NAM1" value="1234-4834"></brand>
+		<brand name="MV-VE_NAM1" value="1234-4818"></brand>
+		<brand name="ROG-CA NAM1" value="1233-6929"></brand>
+		<brand name="TCEL-MX NAM1" value="1233-6931"></brand>
+		<brand name="TCNZ-NZ_NAM" value="1234-4822"></brand>
+		<brand name="TELEF-CO NAM1" value="1234-6245"></brand>
+		<brand name="TELSTRA-AU NAM1" value="1234-4824"></brand>
+		<brand name="TIM-BR NAM1" value="1234-4840"></brand>
+		<brand name="VIVO-BR NAM1" value="1233-6925"></brand>
+	</device>
+</devices>
