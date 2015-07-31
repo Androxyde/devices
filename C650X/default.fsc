@@ -3,7 +3,6 @@ setFlashState:1
 closeTA:
 uploadImage:partition
 openTA:2
-uploadImage:dbi
 uploadImage:emmc_appsboot
 closeTA:
 openTA:2
@@ -11,8 +10,10 @@ writeTA:2127
 writeTA:2301
 closeTA:
 openTA:2
-uploadImage:s1sbl
+uploadImage:s1sbl2
 uploadImage:sbl1
+uploadImage:sbl2
+uploadImage:sbl3
 uploadImage:tz
 closeTA:
 openTA:2
@@ -27,11 +28,11 @@ uploadImage:userdata
 uploadImage:system
 uploadImage:amss_fs_1
 uploadImage:amss_fs_2
-uploadImage:amss_fsg
+uploadImage:amss_fs_3
 closeTA:
 openTA:2
-writeTA:2404
 writeTA:2212
+writeTA:2404
 closeTA:
 openTA:2
 closeTA:
