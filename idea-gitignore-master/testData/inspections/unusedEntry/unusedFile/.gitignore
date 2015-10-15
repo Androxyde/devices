@@ -1,0 +1,8 @@
+subdir/foo.txt
+subdir/foo*
+subdir/dir/
+subdir/**/biz.a
+<UNUSED ENTRY descr="'subdir/*/biz.a' entry is never used">subdir/*/biz.a</UNUSED ENTRY>
+<UNUSED ENTRY descr="'subdir/bar*' entry is never used">subdir/bar*</UNUSED ENTRY>
+<UNUSED ENTRY descr="'subdir/bar.txt' entry is never used">subdir/bar.txt</UNUSED ENTRY>
+<UNUSED ENTRY descr="'bar.txt' entry is never used">bar.txt</UNUSED ENTRY>
