@@ -1,0 +1,18 @@
+<root>
+	<exploit name="iovyroot">
+		<device id="E5803" sofware="32.0.A.6.200" kernel=""></device>
+		<device id="E5823" sofware="32.0.A.6.200"></device>
+		<device id="E6533" software="32.0.A.6.200"></device>
+		<device id="E6553" software="32.0.A.6.200"></device>
+		<device id="E6603" software="32.0.A.6.200"></device>
+		<device id="E6633" software="32.0.A.6.200"></device>
+		<device id="E6653" software="32.0.A.6.200"></device>
+		<device id="E6683" software="32.0.A.6.200"></device>
+		<device id="E6833" software="32.0.A.6.200"></device>
+		<device id="E6853" software="32.0.A.6.200"></device>
+		<device id="E6883" software="32.0.A.6.200"></device>
+		<device id="E6883" software="32.0.A.6.200"></device>
+		<device id="SGP771" software="32.0.A.6.200"></device>
+		<device id="SGP712" software="32.0.A.6.200"></device>	
+	</exploit>
+</root>
