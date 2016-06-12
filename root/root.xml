@@ -1,18 +1,34 @@
 <root>
 	<exploit name="iovyroot">
-		<device id="E5803" sofware="32.0.A.6.200" kernel=""></device>
+		<device id="E5603" sofware="30.0.A.1.23"></device>
+		<device id="E5603" sofware="30.1.A.1.33"></device>
+		<device id="E5606" sofware="30.0.A.1.23"></device>
+		<device id="E5606" sofware="30.1.A.1.33"></device>
+		<device id="E5633" sofware="30.0.B.1.23"></device>
+		<device id="E5633" sofware="30.1.B.1.33"></device>
+		<device id="E5643" sofware="30.0.B.1.23"></device>
+		<device id="E5643" sofware="30.1.B.1.33"></device>
+		<device id="E5653" sofware="30.0.A.1.23"></device>
+		<device id="E5653" sofware="30.1.A.1.33"></device>
+		<device id="E5663" sofware="30.0.B.1.23"></device>
+		<device id="E5663" sofware="30.1.B.1.33"></device>
+		<device id="E5803" sofware="32.0.A.6.200"></device>
 		<device id="E5823" sofware="32.0.A.6.200"></device>
-		<device id="E6533" software="32.0.A.6.200"></device>
-		<device id="E6553" software="32.0.A.6.200"></device>
-		<device id="E6603" software="32.0.A.6.200"></device>
-		<device id="E6633" software="32.0.A.6.200"></device>
+		<device id="E6533" software="28.0.A.8.266"></device>
+		<device id="E6553" software="28.0.A.8.266"></device>
+		<device id="E6603" software="32.0.A.6.152"></device>
+		<device id="E6633" software="32.0.A.6.152"></device>
+		<device id="E6653" software="32.0.A.6.152"></device>
 		<device id="E6653" software="32.0.A.6.200"></device>
-		<device id="E6683" software="32.0.A.6.200"></device>
-		<device id="E6833" software="32.0.A.6.200"></device>
+		<device id="E6683" software="32.0.A.6.152"></device>
+		<device id="E6683" software="32.0.A.6.209"></device>
+		<device id="E6833" software="32.0.A.6.170"></device>
+		<device id="E6853" software="32.0.A.6.170"></device>
 		<device id="E6853" software="32.0.A.6.200"></device>
-		<device id="E6883" software="32.0.A.6.200"></device>
-		<device id="E6883" software="32.0.A.6.200"></device>
+		<device id="E6883" software="32.0.A.6.160"></device>
+		<device id="E6883" software="32.0.A.6.170"></device>
+		<device id="E6883" software="32.0.A.6.209"></device>
 		<device id="SGP771" software="32.0.A.6.200"></device>
-		<device id="SGP712" software="32.0.A.6.200"></device>	
+		<device id="SGP712" software="32.0.A.6.200"></device>
 	</exploit>
 </root>
