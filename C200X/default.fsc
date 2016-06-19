@@ -1,0 +1,50 @@
+getLoaderInfos:
+openTA:2
+readTA:00 00 08 A2
+readTA:00 00 13 24
+readTA:00 00 08 9D
+readTA:00 00 08 9A
+readTA:00 00 08 9C
+Get Error:
+readTA:00 00 08 9E
+readTA:00 00 09 1A
+Get Error:
+readTA:00 00 07 E5
+readTA:00 00 07 DA
+readTA:00 00 07 DA
+readTA:00 00 07 DA
+readTA:00 00 27 1B
+Get Error:
+readTA:00 00 27 1C
+Get Error:
+readTA:00 00 27 25
+readTA:00 00 08 A1
+closeTA:
+uploadImage:loader
+getLoaderInfos:
+setLoaderConfig:00 01 00 00 00 0C
+openTA:2
+setFlashState:1
+closeTA:
+uploadImage:partition
+openTA:2
+uploadImage:cache
+uploadImage:fotakernel
+uploadImage:kernel
+uploadImage:modem_fs1
+uploadImage:modem_fs2
+uploadImage:modem
+uploadImage:rpm
+closeTA:
+openTA:2
+uploadImage:userdata
+uploadImage:system
+closeTA:
+openTA:2
+uploadImage:elabel
+closeTA:
+openTA:2
+setFlashTimestamp:
+setFlashState:0
+closeTA:
+End flashing:
