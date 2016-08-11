@@ -1,0 +1,74 @@
+getLoaderInfos:
+openTA:2
+readTA:00 00 08 A2
+readTA:00 00 13 24
+readTA:00 00 08 9D
+readTA:00 00 08 9A
+readTA:00 00 08 9C
+Get Error:
+readTA:00 00 08 9E
+readTA:00 00 09 1A
+Get Error:
+readTA:00 00 07 E5
+readTA:00 00 07 DA
+readTA:00 00 07 DA
+readTA:00 00 07 DA
+readTA:00 00 27 1B
+Get Error:
+readTA:00 00 27 1C
+Get Error:
+readTA:00 00 27 25
+Get Error:
+readTA:00 00 08 A1
+closeTA:
+uploadImage:loader
+getLoaderInfos:
+setLoaderConfig:00 01 00 00 00 0C
+openTA:2
+setFlashState:1
+closeTA:
+uploadImage:partition
+openTA:2
+uploadImage:dbi
+uploadImage:emmc_appsboot
+closeTA:
+openTA:2
+writeTA:2127
+writeTA:2301
+closeTA:
+openTA:2
+uploadImage:rpm
+uploadImage:s1sbl_aid4
+uploadImage:sbl1
+uploadImage:tz
+closeTA:
+openTA:2
+uploadImage:cache
+uploadImage:kernel
+uploadImage:fotakernel
+closeTA:
+openTA:2
+uploadImage:userdata
+uploadImage:system
+uploadImage:amss_fs_1
+uploadImage:amss_fs_2
+uploadImage:amss_fsg
+closeTA:
+openTA:2
+writeTA:2212
+closeTA:
+openTA:2
+closeTA:
+openTA:2
+writeTA:2404
+closeTA:
+openTA:2
+closeTA:
+openTA:2
+uploadImage:elabel
+closeTA:
+openTA:2
+setFlashTimestamp:
+setFlashState:0
+closeTA:
+End flashing:
