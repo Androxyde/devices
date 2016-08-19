@@ -1,24 +1,3 @@
-getLoaderInfos:
-openTA:2
-readTA:00 00 08 A2
-readTA:00 00 13 24
-readTA:00 00 08 9D
-readTA:00 00 08 9A
-readTA:00 00 08 9C
-Get Error:
-readTA:00 00 08 9E
-readTA:00 00 09 1A
-Get Error:
-readTA:00 00 07 E5
-readTA:00 00 07 DA
-readTA:00 00 07 DA
-readTA:00 00 07 DA
-readTA:00 00 27 1B
-readTA:00 00 27 1C
-Get Error:
-readTA:00 00 27 25
-readTA:00 00 08 A1
-closeTA:
 setLoaderConfig:00 01 00 00 00 0C
 openTA:2
 setFlashState:1

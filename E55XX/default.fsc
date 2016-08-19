@@ -24,7 +24,6 @@ closeTA:
 openTA:2
 uploadImage:cache
 uploadImage:apps_log
-uploadImage:diag
 uploadImage:boot
 uploadImage:fotakernel
 uploadImage:system
