@@ -20,8 +20,6 @@ writeTA:2127
 writeTA:2301
 closeTA:
 openTA:2
-closeTA:
-openTA:2
 uploadImage:cache
 uploadImage:apps_log
 uploadImage:diag
@@ -41,6 +39,13 @@ openTA:2
 writeTA:2212
 closeTA:
 openTA:2
+writeTA:2311
+closeTA:
+openTA:2
+writeTA:2330
+closeTA:
+openTA:2
+writeTA:2404
 closeTA:
 openTA:2
 uploadImage:elabel
