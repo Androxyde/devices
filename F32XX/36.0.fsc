@@ -1,24 +1,4 @@
 getLoaderInfos:
-openTA:2
-readTA:00 00 08 A2
-readTA:00 00 13 24
-readTA:00 00 08 9D
-readTA:00 00 08 9A
-readTA:00 00 08 9C
-Get Error:
-readTA:00 00 08 9E
-readTA:00 00 09 1A
-Get Error:
-readTA:00 00 07 E5
-readTA:00 00 07 DA
-readTA:00 00 07 DA
-readTA:00 00 07 DA
-readTA:00 00 27 1B
-readTA:00 00 27 1C
-Get Error:
-readTA:00 00 27 25
-readTA:00 00 08 A1
-closeTA:
 setLoaderConfig:00 01 00 00 00 0C
 openTA:2
 setFlashState:1
@@ -28,36 +8,36 @@ setLoaderConfig:00 01 00 00 00 0D
 setLoaderConfig:00 01 00 00 00 0F
 uploadImage:preloader_s1sbl
 setLoaderConfig:00 01 00 00 00 0D
-uploadImage:secro
 setLoaderConfig:00 01 00 00 00 0C
 openTA:2
-closeTA:
-openTA:2
-writeTA:2127
-writeTA:2301
-closeTA:
-openTA:2
+uploadImage:lk2
 uploadImage:lk
 uploadImage:logo
 uploadImage:tee1
 uploadImage:tee2
 closeTA:
 openTA:2
-uploadImage:cache
+writeTA:2127
+writeTA:2301
+closeTA:
+openTA:2
 uploadImage:apps_log
 uploadImage:diag
+uploadImage:cache
+uploadImage:Qnovo
+uploadImage:md1img
+uploadImage:md1dsp
+uploadImage:md1arm7
 uploadImage:boot
 uploadImage:fotakernel
 uploadImage:system
 closeTA:
 openTA:2
-uploadImage:userdata
 uploadImage:oem
+uploadImage:userdata
 closeTA:
 openTA:2
 writeTA:2212
-closeTA:
-openTA:2
 closeTA:
 openTA:2
 uploadImage:elabel
