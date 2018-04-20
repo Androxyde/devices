@@ -1,0 +1,61 @@
+getLoaderInfos
+setLoaderConfig:00 01 00 00 00 0C
+openTA:2
+setFlashState:1
+closeTA
+uploadImage:partitions
+setLoaderConfig:00 01 00 00 00 0D
+setLoaderConfig:00 01 00 00 00 0F
+uploadImage:preloader_s1sbl
+setLoaderConfig:00 01 00 00 00 0D
+setLoaderConfig:00 01 00 00 00 0C
+openTA:2
+writeTA:2127
+writeTA:2301
+closeTA
+openTA:2
+uploadImage:lk2
+uploadImage:lk
+uploadImage:logo
+uploadImage:tee1
+uploadImage:tee2
+closeTA
+openTA:2
+uploadImage:apps_log
+uploadImage:diag
+uploadImage:cache
+uploadImage:Qnovo
+uploadImage:md1img
+uploadImage:md1arm7
+uploadImage:md1dsp
+uploadImage:kernel
+uploadImage:fotakernel
+uploadImage:system
+closeTA
+openTA:2
+uploadImage:oem
+uploadImage:userdata
+closeTA
+openTA:2
+writeTA:2404
+closeTA
+openTA:2
+writeTA:2311
+closeTA
+openTA:2
+writeTA:2330
+closeTA
+openTA:2
+writeTA:2553
+closeTA
+openTA:2
+writeTA:2212
+closeTA
+openTA:2
+uploadImage:elabel
+closeTA
+openTA:2
+setFlashTimestamp
+setFlashState:0
+closeTA
+End flashing
